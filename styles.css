@@ -34,6 +34,11 @@ header, input {
   text-align: center;
 }
 
+header {
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
 h1, button {
   font-weight: 600;
 }
