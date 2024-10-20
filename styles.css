@@ -52,5 +52,6 @@ input {
   width: 92%;
   border-radius: 0.5rem;
   text-align: center;
-  background-color: #E5E7EB;
+  background-color: #F9FAFB;
+  border: #E5E7EB 1px solid;
 }
