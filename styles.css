@@ -34,4 +34,5 @@ header p {
 
 main {
   background-color: #FFFFFF;
+  max-width: 35rem;
 }
