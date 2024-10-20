@@ -71,3 +71,7 @@ button {
   border: none;
   margin: 2rem auto;
 }
+
+main p {
+  text-align: center;
+}
