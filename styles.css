@@ -8,7 +8,6 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #F9FAFB;
-  font-size: 1rem;
 }
 
 img {
@@ -60,4 +59,5 @@ button {
   color: #FFFFFF;
   background-color: #3662E3;
   border: none;
+  font-size: 1rem;
 }
