@@ -51,6 +51,7 @@ main {
   margin: 4rem auto;
   box-shadow: 0 1rem 2rem #E5E7EB;
   padding: 1.5rem 0;
+  border-radius: 1rem;
 }
 
 input, button {
