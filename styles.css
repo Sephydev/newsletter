@@ -38,3 +38,7 @@ main {
   max-width: 35rem;
   margin: 4rem auto;
 }
+
+::placeholder {
+  font-size: 1rem;
+}
