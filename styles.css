@@ -22,3 +22,7 @@ h1 {
   font-weight: 600;
   text-align: center;
 }
+
+header p {
+  font-size: 1.25rem;
+}
