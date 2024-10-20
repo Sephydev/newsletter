@@ -59,4 +59,5 @@ input {
 button {
   color: #FFFFFF;
   background-color: #3662E3;
+  border: none;
 }
